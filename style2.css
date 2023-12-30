@@ -1,0 +1,86 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /* background-color: 
+    background-color:  */
+    margin: 10px;
+  }
+  .main{
+      height: 800;
+      padding :300px;
+      display: flex;
+      flex-direction:column ;
+      justify-content: center;
+      align-items: center;
+  }
+  p{
+      text-align: center;
+      margin: 0;
+  
+  }
+  .heading{
+      font-size: 40px;
+      font-weight: 400px;
+      color: rgb(211, 209, 152);
+  }
+  .tagline {
+      color: rgb(247, 247, 191);
+  }
+  #second{
+      background-color: rgb(220, 135, 85);
+  }img{
+      width: 200px;
+      height: 200px;
+      margin: 10px;
+      border-radius: 600px;
+  }
+  .bio{
+      color:  rgb(230, 205, 143);
+      font-weight: 600;
+  }
+  #about {
+      color: rgb(67, 41, 11);
+      /* font-size: 40px;
+      font-weight: 400; */
+  }
+  .main{
+      background-color:  rgb(6, 94, 83);
+  
+  }
+  .heading{
+      font-size: 40px;
+      font-weight: 400px;
+      color:rgb(199, 92, 92) ;
+  }
+  .tagline{
+      color:rgb(247, 247, 191) ;
+  }
+  #contact
+  {
+    color:darkslategrey;
+      background-color:  rgb(220, 135, 85);
+  }
+  .button{
+  
+      background-color: rgb(152, 220, 218);
+      padding :10px 5px 10px 5px;
+      color: black;
+      text-decoration: none
+      /* border-radius: 10px; */
+  }
+  .button:hower{
+      background-color: gray;
+      border-radius:rgb(11, 47, 46) 2px solid ;
+      color:white ;
+  }
+  .footer{
+      height: 30px;
+      padding: 10px;
+      background-color: white;
+      color: black;
+      display: flex;
+      justify-content: center;
+      flex-direction :column;
+  
+  }.footertext{
+      text-align: center;
+  }
